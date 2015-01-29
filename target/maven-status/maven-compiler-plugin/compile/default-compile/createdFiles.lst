@@ -1,6 +1,0 @@
-org\gbif\nameparser\NormalisedNameParser.class
-org\gbif\nameparser\NormalizeUtils.class
-org\gbif\nameparser\NormalisedNameParser$MatcherCallable.class
-org\impl\NameParserImpl.class
-org\gbif\nameparser\UnparsableException.class
-org\gbif\nameparser\NameParser.class

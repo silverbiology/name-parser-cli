@@ -10,7 +10,7 @@
 
   <groupId>org.gbif</groupId>
   <artifactId>name-parser-cli</artifactId>
-  <version>cli</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>GBIF Name Parser Client</name>
@@ -43,6 +43,7 @@
   </developers>
 
   <build>
+	<directory>bin</directory>
     <defaultGoal>install</defaultGoal>
     <resources>
       <resource>
