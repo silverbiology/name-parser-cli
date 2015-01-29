@@ -11,9 +11,9 @@ A Package named Implementation is created inside which there will be a class whi
   Install Maven
 http://maven.apache.org/download.cgi#Installation
 
-To compile the project into an executable JAR file
-After the successful installation of maven open the  folder where the POM.xml is located.
+To compile the project into an executable JAR file after the successful installation of maven open the  folder where the POM.xml is located using command prompt.
 Then execute the command  "mvn package"
+
 
 jar files will be created under target folder.
 cd target
