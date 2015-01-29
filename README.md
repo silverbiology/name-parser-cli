@@ -3,7 +3,7 @@ Java command line interface for GBIF scientific name parser library
 #General Information
 
 #NameParser Implementation
-A Package named Implementation is created inside which there will be a class which implement nameparser libarary and will create the required json output from the argument passed.
+A Package named Impl is created in which there will be a class which will use nameparser libarary and will create the required json output from the argument passed.
 
 #Developers
   Install jdk 1.7.0
